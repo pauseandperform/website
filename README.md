@@ -106,7 +106,7 @@
 <section id="contact">
     <h2>Contact Pause n Perform</h2>
     <p>Ready to pause and perform? Book your free discovery call or drop me an email.</p>
-    <a class="button" href="mailto:youremail@example.com">Email Us</a>
+    <a class="button" href="mailto:pauseandperform@gmail.com">Email Us</a>
 </section>
 
 <footer>
